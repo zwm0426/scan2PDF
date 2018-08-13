@@ -1,11 +1,12 @@
 # scan2PDF
 Merge files to PDF using single side scanner.
 
-##Requirement
+## Requirement
+
 You need ```Python3``` and ```PyPDF2``` installed in your computer.
 You can install ```PyPDF2``` by running ```pip3 install PyPDF2``` in your terminal. (macOS)
 
-##Usage
+## Usage
 
 (On scanner)
 1. Scanning the documents in regular order. (Page 1,3,5, ..., n-1.)
@@ -23,11 +24,12 @@ You will get the merged PDF file. Remember to rename the ```output.PDF```, or it
 # 扫描并生成PDF
 此程序将帮助使用单面扫描仪扫描大量文件的您生成合并后的PDF文档。
 
-##所需工具
+## 所需工具
+
 请确保您的电脑上安装了```Python3``` 以及 ```PyPDF2```。
 你可以通过执行```pip3 install PyPDF2```来安装```PyPDF2```。 （macOS）
 
-##用法
+## 用法
 
 （在扫描仪端）
 1. 请将您的文件按正常顺序扫描。（第1、3、5、……、最后一张的正面）
